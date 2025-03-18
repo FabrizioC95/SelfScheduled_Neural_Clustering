@@ -12,3 +12,8 @@ This file is a Google Colab Notebook, so all the code is already written for you
 - 2. Click "SelfScheduled_Neural_Clustering.ipynb" 
 - 3. Click "Open in Colab" at the top
 - 4. Follow the instructions in the notebook
+
+## TO-DO:
+- Upload each module as an individual file
+- Create "main" file for using the network
+- Build into lib for easier usage
