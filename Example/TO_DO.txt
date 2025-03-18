@@ -2,4 +2,3 @@ TO DO:
 
 1. Return learned embeddings
 2. Make the resulting column from the inference function return the ORIGINAL feature values along with the cluster assignments. Currently it returns the ENCODED features with the cluster assignments
-3. Dataloader needs logic for ONLY accepting a list of categorical columns or a list of numerical columns. Currently, it requires that both are passed. 
