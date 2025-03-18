@@ -8,6 +8,7 @@ One key contribution from this work is the novel training schedule, which dynami
 The file "SelfScheduled_Neural_Clustering.ipynb" contains an example for running the network and includes code for you to run it on your own dataset.
 This file is a Google Colab Notebook, so all the code is already written for you:
 
-- 1. Click "SelfScheduled_Neural_Clustering.ipynb" 
-- 2. Click "Open in Colab" at the top
-- 3. Follow the instructions in the notebook
+- 1. Click on the "Example" folder
+- 2. Click "SelfScheduled_Neural_Clustering.ipynb" 
+- 3. Click "Open in Colab" at the top
+- 4. Follow the instructions in the notebook
