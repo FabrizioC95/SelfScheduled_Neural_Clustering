@@ -1,4 +1,4 @@
-# SelfScheduled_Neural_Clustering
+# SelfScheduled Neural Clustering Architecture
 Neural Clustering Architecture for Tabular Data (Customer Segmentation/Persona Creation)
 This repo contains the official PyTorch implementation of the neural architecture proposed in [____]. This architecture is designed for clustering tabular data, leveraging autoencoders and a routing network. This work expands on existing work that follows a Mixture of Experts approach for clustering images and text. 
 
